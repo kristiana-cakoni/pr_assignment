@@ -1,0 +1,299 @@
+[
+  {
+    "id": "26536",
+    "name": "Kefir Luleshtrydhe Activia 280gr",
+    "category": "Bulmet",
+    "price": 180,
+    "stock": 24,
+    "barcode": "5941209026000",
+    "unit": "copë"
+  },
+  {
+    "id": "26535",
+    "name": "Krem djathi Kolios 200gr",
+    "category": "Bulmet",
+    "price": 189,
+    "stock": 16,
+    "barcode": "520174063253",
+    "unit": "copë"
+  },
+  {
+    "id": "26533",
+    "name": "Qumësht Kakao Milko 250ml",
+    "category": "Bulmet",
+    "price": 89,
+    "stock": 32,
+    "barcode": "5201037509541",
+    "unit": "copë"
+  },
+  {
+    "id": "26532",
+    "name": "Kos Complet 2% Delta 500gr",
+    "category": "Bulmet",
+    "price": 330,
+    "stock": 9,
+    "barcode": "5201037713962",
+    "unit": "copë"
+  },
+  {
+    "id": "26531",
+    "name": "Kos Complet 10% Delta 500gr",
+    "category": "Bulmet",
+    "price": 330,
+    "stock": 4,
+    "barcode": "5201037713979",
+    "unit": "copë"
+  },
+  {
+    "id": "26530",
+    "name": "Qumësht Fshati Delta 3.7% 1L",
+    "category": "Bulmet",
+    "price": 295,
+    "stock": 18,
+    "barcode": "5201037508506",
+    "unit": "copë"
+  },
+  {
+    "id": "26520",
+    "name": "Gjalpë President 200gr",
+    "category": "Bulmet",
+    "price": 420,
+    "stock": 6,
+    "barcode": "3073781100001",
+    "unit": "copë"
+  },
+  {
+    "id": "26518",
+    "name": "Djathë i bardhë 400gr",
+    "category": "Bulmet",
+    "price": 510,
+    "stock": 0,
+    "barcode": "5300001000018",
+    "unit": "copë"
+  },
+  {
+    "id": "26414",
+    "name": "Banane 1kg",
+    "category": "Të freskëta",
+    "price": 180,
+    "stock": 0,
+    "barcode": "2000000000014",
+    "unit": "kg"
+  },
+  {
+    "id": "26413",
+    "name": "Sallatë jeshile",
+    "category": "Të freskëta",
+    "price": 70,
+    "stock": 11,
+    "barcode": "2000000000013",
+    "unit": "copë"
+  },
+  {
+    "id": "26412",
+    "name": "Mollë Gala 1kg",
+    "category": "Të freskëta",
+    "price": 160,
+    "stock": 3,
+    "barcode": "2000000000012",
+    "unit": "kg"
+  },
+  {
+    "id": "26411",
+    "name": "Kastravec 1kg",
+    "category": "Të freskëta",
+    "price": 90,
+    "stock": 15,
+    "barcode": "2000000000011",
+    "unit": "kg"
+  },
+  {
+    "id": "26410",
+    "name": "Domate 1kg",
+    "category": "Të freskëta",
+    "price": 120,
+    "stock": 40,
+    "barcode": "2000000000010",
+    "unit": "kg"
+  },
+  {
+    "id": "26314",
+    "name": "Sheqer 1kg",
+    "category": "Produkte ushqimore",
+    "price": 130,
+    "stock": 2,
+    "barcode": "8000000000014",
+    "unit": "copë"
+  },
+  {
+    "id": "26313",
+    "name": "Vaj luledielli 1L",
+    "category": "Produkte ushqimore",
+    "price": 340,
+    "stock": 9,
+    "barcode": "8000000000013",
+    "unit": "copë"
+  },
+  {
+    "id": "26312",
+    "name": "Miell gruri 1kg",
+    "category": "Produkte ushqimore",
+    "price": 80,
+    "stock": 18,
+    "barcode": "8000000000012",
+    "unit": "copë"
+  },
+  {
+    "id": "26311",
+    "name": "Makarona spaghetti 500gr",
+    "category": "Produkte ushqimore",
+    "price": 95,
+    "stock": 40,
+    "barcode": "8000000000011",
+    "unit": "copë"
+  },
+  {
+    "id": "26310",
+    "name": "Oriz Riso 1kg",
+    "category": "Produkte ushqimore",
+    "price": 210,
+    "stock": 25,
+    "barcode": "8000000000010",
+    "unit": "copë"
+  },
+  {
+    "id": "26212",
+    "name": "Suxhuk 300gr",
+    "category": "Mish dhe produkte mishi",
+    "price": 280,
+    "stock": 0,
+    "barcode": "2100000000012",
+    "unit": "copë"
+  },
+  {
+    "id": "26211",
+    "name": "Qofte viçi 500gr",
+    "category": "Mish dhe produkte mishi",
+    "price": 540,
+    "stock": 2,
+    "barcode": "2100000000011",
+    "unit": "pako"
+  },
+  {
+    "id": "26210",
+    "name": "Mish pule fileto 1kg",
+    "category": "Mish dhe produkte mishi",
+    "price": 690,
+    "stock": 7,
+    "barcode": "2100000000010",
+    "unit": "kg"
+  },
+  {
+    "id": "26112",
+    "name": "Oriz basmati 1kg",
+    "category": "Të thata",
+    "price": 360,
+    "stock": 5,
+    "barcode": "2200000000012",
+    "unit": "copë"
+  },
+  {
+    "id": "26111",
+    "name": "Thjerrëza 500gr",
+    "category": "Të thata",
+    "price": 140,
+    "stock": 16,
+    "barcode": "2200000000011",
+    "unit": "pako"
+  },
+  {
+    "id": "26110",
+    "name": "Fasule të thata 500gr",
+    "category": "Të thata",
+    "price": 150,
+    "stock": 14,
+    "barcode": "2200000000010",
+    "unit": "pako"
+  },
+  {
+    "id": "26012",
+    "name": "Qese mbeturinash 30L",
+    "category": "Jo ushqimore",
+    "price": 130,
+    "stock": 12,
+    "barcode": "2300000000012",
+    "unit": "pako"
+  },
+  {
+    "id": "26011",
+    "name": "Detergjent enësh 500ml",
+    "category": "Jo ushqimore",
+    "price": 180,
+    "stock": 1,
+    "barcode": "2300000000011",
+    "unit": "copë"
+  },
+  {
+    "id": "26010",
+    "name": "Letër higjienike 8 copë",
+    "category": "Jo ushqimore",
+    "price": 220,
+    "stock": 20,
+    "barcode": "2300000000010",
+    "unit": "pako"
+  },
+  {
+    "id": "25912",
+    "name": "Kafe espresso 250gr",
+    "category": "Pije",
+    "price": 480,
+    "stock": 10,
+    "barcode": "2400000000012",
+    "unit": "copë"
+  },
+  {
+    "id": "25911",
+    "name": "Lëng molle 1L",
+    "category": "Pije",
+    "price": 160,
+    "stock": 8,
+    "barcode": "2400000000011",
+    "unit": "copë"
+  },
+  {
+    "id": "25910",
+    "name": "Ujë natyral 1.5L",
+    "category": "Pije",
+    "price": 50,
+    "stock": 60,
+    "barcode": "2400000000010",
+    "unit": "copë"
+  },
+  {
+    "id": "25812",
+    "name": "Domate të qëruara 400gr",
+    "category": "Të konservuara",
+    "price": 95,
+    "stock": 21,
+    "barcode": "2500000000012",
+    "unit": "copë"
+  },
+  {
+    "id": "25811",
+    "name": "Fasule konservë 400gr",
+    "category": "Të konservuara",
+    "price": 110,
+    "stock": 0,
+    "barcode": "2500000000011",
+    "unit": "copë"
+  },
+  {
+    "id": "25810",
+    "name": "Ton në vaj 160gr",
+    "category": "Të konservuara",
+    "price": 190,
+    "stock": 17,
+    "barcode": "2500000000010",
+    "unit": "copë"
+  }
+]
